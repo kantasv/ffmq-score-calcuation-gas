@@ -58,7 +58,6 @@ Baer, R. A., Smith, G. T., Hopkins, J., Krietemeyer, J., Toney, L. (2006). Using
 # 免責
 
 コード中のスコアの計算の検算は行っていますが、もし間違いがありましたら教えてください。
-I have exhasutively checked score calculations, but if you find mistakes, please let me know.
 このスクリプトを利用したことによる損害や損失などに対して私は責任は負えないことをご理解ください。
 とはいうものの、このスクリプトが他の研究者の方々の面倒な手計算や、エクセル計算から逃れる助けになれば、この上ない幸せです。
 
